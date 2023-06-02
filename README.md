@@ -7,7 +7,7 @@
 
 <h2>🛠 Tech Stack</h2>
 
-- 💻 &nbsp; Python | JavaScript | C++ | C
+- 💻 &nbsp; Python | Java
 
 - 🔧 &nbsp; Django, Flask, FastAPI
 - 📙 &nbsp; MongoDB, Redis, PostgresSQL, SQL Server
