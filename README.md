@@ -1,7 +1,7 @@
 # Hi there 👋
 <h2> 👨‍💻 About Me </h2>
 
-- 💼 &nbsp; Working at Confitec with Python.
+- 💼 &nbsp; Working at Confitec with Python and Java.
 - 🎓 &nbsp; Studying Information Technology at Federal University of Rio Grande do Norte, Brazil.
 - 🌱 &nbsp; Learning about Systems Design and Software Engineering.
 
