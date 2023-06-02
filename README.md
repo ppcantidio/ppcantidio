@@ -9,7 +9,7 @@
 
 - 💻 &nbsp; Python | Java
 
-- 🔧 &nbsp; Django, Flask, FastAPI, SpringBoot
+- 🔧 &nbsp; Django, Flask, FastAPI, Spring Boot
 - 📙 &nbsp; MongoDB, Redis, PostgresSQL, SQL Server
 
 
