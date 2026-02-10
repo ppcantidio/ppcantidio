@@ -1,6 +1,6 @@
 # Hi there, I'm Pedro Cantidio 👋🇧🇷
 
-Co-founder & CPTO at **[Spryx](https://www.spryx.ai/)**.  
+Co-founder & CPTO at **[Spryx AI](https://www.spryx.ai/)**.  
 I build AI-native SaaS systems with a focus on backend architecture, multi-tenant platforms, identity/authorization, and product execution.
 
 ## What I’m building
