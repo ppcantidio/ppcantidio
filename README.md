@@ -9,11 +9,6 @@ I build AI-native SaaS systems with a focus on backend architecture, multi-tenan
 - Scalable backend services in Python (FastAPI), Postgres, Redis, and cloud infrastructure
 - Operational foundations: observability, CI/CD, reliability, and developer experience
 
-## Selected work
-- **Spryx** — AI agents platform for companies  
-- Architecture patterns: modular monolith + clean boundaries
-- Applied experience with FastAPI, PostgreSQL, Redis, AWS/DigitalOcean, Docker, GitHub Actions
-
 ## Connect
 - LinkedIn: https://www.linkedin.com/in/ppcantidio/
 - X/Twitter: https://twitter.com/ppcantidio
